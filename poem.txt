@@ -2,4 +2,5 @@ orange
 blue
 red
 purple
+green
 these are the clors of the rainbow.

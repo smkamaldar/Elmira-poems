@@ -4,4 +4,5 @@ red
 purple
 green
 yellow
-these are the clors of the rainbow.
+light blue
+these are the colors of the rainbow.
